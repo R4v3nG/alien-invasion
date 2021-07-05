@@ -11,6 +11,10 @@ cd alien-invasion/
 pip3 install -r requirements.txt
 python3 alien_invasion.py
 ```
+Feel free to change ship and alien icons. Also you can set your own bullet, ship weight , height and speed.
+Pull requests are welcome.
+
+
 ## To do:
 Add more bugs.
 
