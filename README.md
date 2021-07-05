@@ -1,4 +1,4 @@
-# alien-invasion
+# Alien Invasion v.1.0
 My version of Alien Invasion game from book.
 
 
@@ -11,6 +11,7 @@ cd alien-invasion/
 pip3 install -r requirements.txt
 python3 alien_invasion.py
 ```
-
+## To do:
+Add more bugs.
 
 <a href="https://www.buymeacoffee.com/R4v3nG"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=R4v3nG&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
