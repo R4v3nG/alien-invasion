@@ -66,7 +66,7 @@ class AlienInvasion:
             self.settings.initialize_dynamic_settings()
             self.start_game()
             self.sb.prep_score()
-            sb.prep_level()
+            self.sb.prep_level()
 
     def start_game(self):
 
