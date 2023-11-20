@@ -6,7 +6,7 @@ My version of Alien Invasion game from book.
 
 ```bash
 apt install python3-pip
-git clone https://github.com/R4v3nG/alien-invasion.git
+git clone https://github.com/innxrmxst/alien-invasion.git
 cd alien-invasion/
 pip3 install -r requirements.txt
 python3 alien_invasion.py
