@@ -1,5 +1,5 @@
 # Alien Invasion v.1.0
-My version of Alien Invasion game from book.
+My variation of Alien Invasion game from the book.
 
 
 ## Installation
